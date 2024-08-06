@@ -1,0 +1,3 @@
+Nombre: Mercedes 
+Color: Blue
+Comida: Pasta
